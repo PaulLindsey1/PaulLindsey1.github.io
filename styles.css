@@ -5,11 +5,11 @@ body{
 
 .assignments{
     display:flex;
-    flex-wrap:flex;
+    flex-wrap:wrap;
 }
 
 .assignment {
-    width:50%;
+    width:25%;
     padding: 15px;
     margin: 15px;
     background:rgb(248, 151, 25);
